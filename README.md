@@ -1,16 +1,26 @@
-### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/wellamaral-blue?logo=linkedin)](https://www.linkedin.com/in/wellamaral/)
 
-<!--
-**wellingtonamaral/wellingtonamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá!
 
-Here are some ideas to get you started:
+Prazer, me chamo Wellington Amaral e tenho 32 anos, graduado em Sistemas de Informação pela ***[Universidade Estácio de Sá (UNESA)](http://www.estacio.br/)***. Atualmente estou estudando desenvolvimento web, usando tecnologias como o ReactJS, Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+
+-  **Aprendendo:** Desenvolvimento Web com React e Sass
+-  **Linguagens:** PHP, Javascript
+-  **Hobbies:** Praia 🏖️: escutar música :headphones:, andar de bike 🚴‍♂️:
+-  
+
+
+Interesses: ###
+- PHP, Laravel
+- Dart, Flutter
+- JavaScript / TypeScript
+- NodeJs
+ 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellingtonamaral&theme=aura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonamaral&layout=compact&theme=aura"> 
+</div>
+
