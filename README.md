@@ -2,7 +2,7 @@
 
 ## Olá!
 
-Prazer, me chamo Wellington Amaral e tenho 32 anos, graduado em Sistemas de Informação pela ***[Universidade Estácio de Sá (UNESA)](http://www.estacio.br/)***. Atualmente estou estudando desenvolvimento web, usando tecnologias como o ReactJS, Laravel.
+Prazer, me chamo Wellington Amaral e tenho 33 anos, graduado em Sistemas de Informação pela ***[Universidade Estácio de Sá (UNESA)](http://www.estacio.br/)***. Atualmente estou estudando desenvolvimento web, usando tecnologias como o ReactJS, Laravel.
 
 ### Sobre mim
 
